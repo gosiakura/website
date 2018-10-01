@@ -1,8 +1,11 @@
 html {
   overflow-x: hidden;
-  overflow-y: hidden;
+  overflow-y: scroll;
 }
-
+html *
+{
+   font-family: Roboto !important;
+}
 
 a:hover {
   text-decoration: none;
@@ -69,11 +72,12 @@ a:hover {
 
 article {
   font-size: 12px !important;
-  line-height: 1.8rem;
+  line-height: 1.5rem;
+  color: rgba(23, 25, 26, 100);
 }
 
 article p {
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(23, 25, 26, 0.8);
 }
 
 article img {
