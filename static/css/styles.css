@@ -180,7 +180,7 @@ h1, h2, h3, h4, h5, h6 {
 .btn-dark-faded {
   font-weight: 200;
   font-family: 'Oswald', sans-serif !important;
-  /*text-transform: uppercase;*/
+  text-transform: none;
   background-color: rgba(0, 0, 0, 0.07);
   color: black;
 }
@@ -228,7 +228,7 @@ section.voilet {
 }
 
 section.blue {
-  background-color: #cadfdf;
+  background-color: #bbd8d8;
 }
 
 section.orange {
@@ -254,7 +254,7 @@ section.pink {
 }
 
 .progress {
-  height: 0.6rem;
+  height: 0.2rem;
   background-color: #fff;
 }
 
@@ -386,8 +386,8 @@ section.pink {
 .hamburger-menu,
 .hamburger-menu:after,
 .hamburger-menu:before {
-  width: 24px;
-  height: 4px;
+  width: 20px;
+  height: 1px;
 }
 
 .hamburger-menu {
