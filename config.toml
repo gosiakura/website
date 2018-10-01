@@ -1,0 +1,4 @@
+baseURL = "https://gosiakuratczyk.cfapps.io/"
+languageCode = "en-us"
+title = "Gosia Kuratczyk"
+theme = "uilite"
