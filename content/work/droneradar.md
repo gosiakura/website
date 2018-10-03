@@ -7,10 +7,10 @@ featured_image: "Droneradar app_presentation_mockup.png"
 
 **Brief** <br>
 Droneradar mobile application was designed to help pilots to safely fly Unmanned Aerial Vehicles. 
-Flying drones, even recreationally, should be done according to the space law.
-There are two main objectives of an app and system:<br>
-first is to advise the pilot whether the airspace circumstances are good to fly in a particular area, <br>
-second, is  to inform other users and flight controllers about the flight. 
+Flying drones, even recreationally, should be done according to the space law.<br>
+There are two main objectives of an droneradar application and system:<br>
+- first is to advise the pilot whether the airspace circumstances are good to fly in a particular area, <br>
+- second, is  to inform other users and flight controllers about the flight. 
 
 **My role** <br>
 Working individually to evaluate and redesign the mobile application. 
