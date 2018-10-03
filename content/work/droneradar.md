@@ -17,7 +17,8 @@ Working individually to evaluate and redesign the mobile application.
 Introduce new functionality, ie. prediction about airspace availability in the the future (inclusion time factor into flight advice).
 
 ![alt text](/images/work/portfoliodroneradar1.png)
-
+*Existing droneradar app*
+<br>
 **Actions**<br>
 The research is essential.<br>
 In-depth interview with stakeholders gave me an opportunity to understand business goals and planned evaluation of the project. Drone pilots problems research, together with face to face interviews I’ve took, gave me deep knowledge about users and their needs. 
