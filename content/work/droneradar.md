@@ -17,17 +17,18 @@ Working individually to evaluate and redesign the mobile application.
 Introduce new functionality, ie. prediction about airspace availability in the the future (inclusion time factor into flight advice).
 
 ![alt text](/images/work/portfoliodroneradar1.png)
-*Existing droneradar app*
+*Existing droneradar app design*
 <br>
 **Actions**<br>
 The research is essential.<br>
 In-depth interview with stakeholders gave me an opportunity to understand business goals and planned evaluation of the project. Drone pilots problems research, together with face to face interviews I’ve took, gave me deep knowledge about users and their needs. 
-At this place we’ve created *Personas*.<br>
-I have also performed usability tests taking advantage of a UAV course I went through. 
+At this moment we were able to create *Personas*.<br>
+I have also performed usability tests taking advantage of a UAV course I went through.<br> 
 Data analyse.<br>
-Google Analytics data helped me to exclude unnecessary content.<br>
+Google Analytics data helped me to learn about user journey and exclude unnecessary content.<br>
 
 ![alt text](/images/work/Droneradarpersonas.png)
+*Identified Personas.Userflow*
 
 **Main identified issues**<br>
 Complexity of an application.<br>
@@ -40,7 +41,6 @@ The objective and importance of the flight registration was not underlined in th
 
 ![alt text](/images/work/wireframes.png)
 ![alt text](/images/work/wireframes1.png)<br>
-
 *Introduction and first app use wireframes.*<br>
 
 
@@ -52,6 +52,7 @@ Main view was modified to present the ability of flight on the map by the colour
 Prediction of airspace availability in the time factor was introduced on the main screen, with an instant advice.<br>
 
 ![alt text](/images/work/Droneradar app_presentation_mockup.png)<br>
+*New user journey*
 
 Weather alarm was proposed to be visible for users when conditions to fly (wind or Kp index) are unfavorable.
 App permissions were included in user journey, presented friendly with explanation of their purpose.<br>
