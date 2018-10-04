@@ -28,7 +28,7 @@ Data analyse.<br>
 Google Analytics data helped me to learn about user journey and exclude unnecessary content.<br>
 
 ![alt text](/images/work/Droneradarpersonas.png)
-*Identified Personas.Userflow*
+*Identified Personas. Source:https://www.youtube.com/watch?v=cQqpEiw-TvI Userflow.*
 
 **Main identified issues**<br>
 Complexity of an application.<br>
