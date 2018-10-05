@@ -3,9 +3,9 @@ html {
   overflow-y: scroll;
 }
 
-html * {
+/* html * {
   font-family: Roboto !important;
-}
+} */
 
 a:hover {
   text-decoration: none;
