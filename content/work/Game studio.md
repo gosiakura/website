@@ -2,7 +2,7 @@
 title: "Game studio"
 date: 2018-09-30T00:10:20+02:00
 draft: false
-featured_image: "Kids1.png"
+featured_image: "Kids1male.png"
 ---
 
 **Brief** <br>
