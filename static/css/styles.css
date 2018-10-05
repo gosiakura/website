@@ -130,6 +130,7 @@ article mark {
   transition: transform 0.3s ease, -webkit-transform 0.3s ease;
   position: absolute;
   margin-left: 35px;
+  padding-top: 50px;
 }
 
 .primaryMenu.active {
@@ -144,6 +145,7 @@ article mark {
   transform: translateY(-90px);
   margin-left: 25px;
   padding-left: 0;
+  height: 50px;
   z-index: 2;
   -webkit-transition: -webkit-transform 0.3s ease;
   transition: -webkit-transform 0.3s ease;
