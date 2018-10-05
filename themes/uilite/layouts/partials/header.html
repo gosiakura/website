@@ -2,16 +2,17 @@
 
 <!DOCTYPE html>
 <html lang="en-US">
+
 <head>
 	<title>
-			{{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
-			{{ if .IsHome }}
-					{{ .Site.Title }}
-			{{ else if .Params.heading }}
-					{{ .Params.heading }}
-			{{ else }}
-					{{ .Title }} | {{ .Site.Title }}
-			{{ end }}
+		{{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+		{{ if .IsHome }}
+		{{ .Site.Title }}
+		{{ else if .Params.heading }}
+		{{ .Params.heading }}
+		{{ else }}
+		{{ .Title }} | {{ .Site.Title }}
+		{{ end }}
 	</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,7 +22,8 @@
 	<link rel="stylesheet" href="https://d1azc1qln24ryf.cloudfront.net/114779/Socicon/style-cf.css?u8vidh">
 	<link rel="stylesheet" type="text/css" href="{{.Site.BaseURL}}css/styles.css">
 	<!-- Including google fonts -->
-	<link href="https://fonts.googleapis.com/css?family=Montserrat:800" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Oswald:200" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300" rel="stylesheet">
 	<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/highlight.css">
 	<!-- Font awesome -->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
@@ -32,11 +34,12 @@
 	<meta name="theme-color" content="#000000">
 
 	{{ if .RSSLink }}
-    <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-    <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+	<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+	<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
 	{{ end }}
-	
+
 	{{ partial "seo_schema.html" . }}
 
 </head>
+
 <body class="clearfix">
