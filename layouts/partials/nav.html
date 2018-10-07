@@ -1,0 +1,17 @@
+{{ $basicInfo := .Site.Data.sidebar }}
+{{ $navigation := .Site.Data.navigation }}
+{{ $social := .Site.Data.social }}
+{{ $baseURL := .Site.BaseURL }}
+
+<nav class="navbar navbar-expand-lg navbar-light bg-white mt-lg-0 mt-3" style="position:relative">
+
+  <div class="">
+    {{ range $navigation }}
+    <a href="{{ $baseURL }}{{ .href }}">
+      <h4 class="d-inline-block mr-3 text-dark mb-0">{{ .title }}</h4>
+    </a>
+    {{ end }}
+  </div>
+
+  </div>
+</nav>
