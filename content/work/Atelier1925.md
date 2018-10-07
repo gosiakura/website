@@ -2,7 +2,7 @@
 title: "Atelier 1925"
 date: 2018-09-30T00:10:20+02:00
 draft: false
-featured_image: "1925portfolio.png"
+featured_image: "1925portfolio.webp"
 ---
 
 **Brief** <br>
@@ -28,14 +28,14 @@ Page also demanded navigation improvements, especially on mobile version due to 
 Not defined keywords, unused in page titles.<br>
 To long page load time.<br>
 
-![alt text](/images/work/1925changes.png)<br>
+![alt text](/images/work/1925changes.webp)<br>
 <br>
 **Solutions**<br>
 The visual message of a great furniture produced by the 1925 studio was strengthened by the title and tagline with clear message. <br>
 Navigation was improved: simple menu with clear sections name and good division of the content, resulted in better user journey. Also unused VIP area was deleted and functionality of recommendation was introduced.<br>
 Recommendation of a keyword oriented tekst definition.<br>
 
-![alt text](/images/work/1925 iMac-mockup.png)<br>
+![alt text](/images/work/1925 iMac-mockup.webp)<br>
 
 
 
