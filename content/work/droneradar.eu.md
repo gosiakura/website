@@ -30,12 +30,3 @@ Data was structured so to give information about the branch and present CTA imme
 New graphic design will be presented soon.
 
 ![alt text](/images/work/droneradareu1.webp)<br>
-
-
-
-
-
-
- 
-
-

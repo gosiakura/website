@@ -36,13 +36,3 @@ Navigation was improved: simple menu with clear sections name and good division 
 Recommendation of a keyword oriented tekst definition.<br>
 
 ![alt text](/images/work/1925 iMac-mockup.webp)<br>
-
-
-
-
-
-
-
- 
-
-
