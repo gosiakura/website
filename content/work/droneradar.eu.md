@@ -21,7 +21,7 @@ Different layout and design styles of the page subsections.<br>
 That resulted also in unconsistent navigation patterns: haburger menus, navigation menu on top or on a side.<br>
 Long text often difficult to read was defined. <br>
 
-![alt text](/images/work/droneradareu2.png)<br>
+{{< image src="/images/work/droneradareu2" >}}<br>
 
 **Solutions**
 Architecture of the site was developed to clearly support three main branches defined by the company owners. <br>
@@ -29,4 +29,4 @@ Data was structured so to give information about the branch and present CTA imme
 
 New graphic design will be presented soon.
 
-![alt text](/images/work/droneradareu1.png)<br>
+{{< image src="/images/work/droneradareu1" >}}

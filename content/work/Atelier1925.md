@@ -28,11 +28,11 @@ Page also demanded navigation improvements, especially on mobile version due to 
 Not defined keywords, unused in page titles.<br>
 To long page load time.<br>
 
-![alt text](/images/work/1925changes.png)<br>
+{{< image src="/images/work/1925changes" >}}<br>
 <br>
 **Solutions**<br>
 The visual message of a great furniture produced by the 1925 studio was strengthened by the title and tagline with clear message. <br>
 Navigation was improved: simple menu with clear sections name and good division of the content, resulted in better user journey. Also unused VIP area was deleted and functionality of recommendation was introduced.<br>
 Recommendation of a keyword oriented tekst definition.<br>
 
-![alt text](/images/work/1925 iMac-mockup.png)<br>
+{{< image src="/images/work/1925-iMac-mockup" >}}

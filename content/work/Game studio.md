@@ -12,5 +12,5 @@ Games for curious kids: http://galantegames.com/.<br>
 **My role included** <br>
 Mobile games design. Icon designs. Web page design.<br>
 
-![alt text](/images/work/galante_games.png)<br>
-![alt text](/images/work/iMac_galantegames.png)<br>
+{{< image src="/images/work/galante_games" >}}<br>
+{{< image src="/images/work/iMac_galantegames" >}}<br>
